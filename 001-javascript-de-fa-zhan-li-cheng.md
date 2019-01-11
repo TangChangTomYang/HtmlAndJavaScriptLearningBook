@@ -55,6 +55,7 @@
 4、2010 年的时候, 人们更加了解HTML5技术了, **HTML5 推出了一个东西叫做 Canvas(画布), 工程师可以在Canvas 上进行游戏制作, 利用的就是javaScript **
 ![](/assets/canvas.png)
 
+5、2011 年, Node.js 诞生, 使javaScript能够开发服务器程序了.
 
 
 
