@@ -41,4 +41,5 @@
   * [001-定位流分类](011-ding-wei/001ding-wei-liu-fen-lei.md)
   * [002-定位流  绝对定位](011-ding-wei/002ding-wei-liu-jue-dui-ding-wei.md)
   * [003-绝对定位参考点](011-ding-wei/003jue-dui-ding-wei-can-kao-dian.md)
+  * [004-绝对定位注意点](011-ding-wei/004jue-dui-ding-wei-zhu-yi-dian.md)
 
