@@ -59,6 +59,6 @@
   * [003-旋转轴向](013-css3-2dzhuan-huan-mo-kuai/003xuan-zhuan-zhou-xiang.md)
   * [004-透视属性](013-css3-2dzhuan-huan-mo-kuai/004tou-shi-shu-xing.md)
   * [005-盒子阴影和文字阴影](013-css3-2dzhuan-huan-mo-kuai/005he-zi-yin-ying-he-wen-zi-yin-ying.md)
-* 020-javaScript
-  * [001-javaScript 的发展历程](001-javascript-de-fa-zhan-li-cheng.md)
+* [020-javaScript](020-javascript.md)
+  * [001-javaScript 的发展历程和基本认识](001-javascript-de-fa-zhan-li-cheng.md)
 
