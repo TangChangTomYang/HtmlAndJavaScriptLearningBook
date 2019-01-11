@@ -28,4 +28,5 @@
   * [002-行高和字号](010-fu-dong/002xing-gao-he-zi-hao.md)
   * [003-练习](010-fu-dong/003lian-xi.md)
   * [004-浮动流基本概念](010-fu-dong/004fu-dong-liu-ji-ben-gai-nian.md)
+  * [005-浮动元素脱标](010-fu-dong/005fu-dong-yuan-su-tuo-biao.md)
 
