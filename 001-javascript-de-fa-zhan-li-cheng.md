@@ -46,6 +46,19 @@
 
 2004年, javascript 命运开始改变了, 由谷歌公司开始带头使用**Ajax**技术了. **Ajax**javascript 的一个应用,从那时起, 人们逐渐开始提升用户体验了.
 
+![](/assets/Snip20190111_4.png)
+
+**HTML/ CSS/ javascript/ Ajax 之间的关系
+**
+![](/assets/Snip20190111_5.png)
+
+
+
+
+
+
+
+
 <br>
 #### 三、JavaScript的组成
 
