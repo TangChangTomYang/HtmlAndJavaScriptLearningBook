@@ -44,4 +44,5 @@
   * [004-绝对定位注意点](011-ding-wei/004jue-dui-ding-wei-zhu-yi-dian.md)
   * [005-绝对定位---子绝父相](011-ding-wei/005jue-dui-ding-4f4d-zi-jue-fu-xiang.md)
   * [006-绝对定位 水平居中](011-ding-wei/006jue-dui-ding-wei-shui-ping-ju-zhong.md)
+  * [007-绝对定位 实践](011-ding-wei/007jue-dui-ding-wei-shi-jian.md)
 
