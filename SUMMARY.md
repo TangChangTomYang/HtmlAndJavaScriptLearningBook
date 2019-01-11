@@ -50,4 +50,5 @@
   * [009- z-index 属性](011-ding-wei/009-z-index-shu-xing.md)
 * [012- 过渡模块\(动画\)](012-guo-du-mo-575728-dong-753b29.md)
   * [001-过度模块的基本使用](012-guo-du-mo-575728-dong-753b29/001guo-du-mo-kuai-de-ji-ben-shi-yong.md)
+  * [002-其它过渡模块属性](012-guo-du-mo-575728-dong-753b29/002qi-ta-guo-du-mo-kuai-shu-xing.md)
 
