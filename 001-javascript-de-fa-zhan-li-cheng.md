@@ -41,3 +41,14 @@
 
 
 
+<br>
+#### 三、JavaScript的组成
+
+**1、ECMAScript：**JavaScript的语法标准。
+**2、DOM：**JavaScript操作网页上的元素的API
+**3、BOM：**JavaScript操作浏览器的部分功能的API
+
+![](/assets/jszc.png)
+
+
+
