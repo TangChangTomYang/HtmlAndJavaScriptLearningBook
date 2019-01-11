@@ -22,4 +22,5 @@
   * [009-CSS 外边距](009-css/009-css-wai-bian-ju.md)
   * [010-CSS 盒子模型](009-css/010-css-he-zi-mo-xing.md)
   * [011-CSS 大小盒子居中问题](009-css/011-css-da-xiao-he-zi-ju-zhong-wen-ti.md)
+  * [012-CSS 盒子居中和内容居中](009-css/012-css-he-zi-ju-zhong-he-nei-rong-ju-zhong.md)
 
