@@ -33,4 +33,5 @@
   * [007-浮动元素的贴靠现象](010-fu-dong/007fu-dong-yuan-su-de-tie-kao-xian-xiang.md)
   * [008-浮动元素字围效果](010-fu-dong/008fu-dong-yuan-su-zi-wei-xiao-guo.md)
   * [009-浮动元素的高度问题](010-fu-dong/009fu-dong-yuan-su-de-gao-du-wen-ti.md)
+  * [010-清除浮动的方式](010-fu-dong/010qing-chu-fu-dong-de-fang-shi.md)
 
