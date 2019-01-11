@@ -12,4 +12,5 @@
 * [008-HTML 中被废弃的标签](008-html-zhong-bei-fei-qi-de-biao-qian.md)
 * [009-CSS ](009-css.md)
   * [001-CSS 文字属性](009-css/001-css-wen-zi-shu-xing.md)
+  * [002-CSS 选择器](009-css/002-css-xuan-ze-qi.md)
 
