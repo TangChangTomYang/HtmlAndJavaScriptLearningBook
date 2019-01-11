@@ -46,4 +46,5 @@
   * [006-绝对定位 水平居中](011-ding-wei/006jue-dui-ding-wei-shui-ping-ju-zhong.md)
   * [007-绝对定位 实践](011-ding-wei/007jue-dui-ding-wei-shi-jian.md)
   * [008-固定定位](011-ding-wei/008gu-ding-ding-wei.md)
+  * [009- z-index 属性](011-ding-wei/009-z-index-shu-xing.md)
 
