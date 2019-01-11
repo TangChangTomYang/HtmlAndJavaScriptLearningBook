@@ -36,4 +36,5 @@
   * [010-清除浮动的方式](010-fu-dong/010qing-chu-fu-dong-de-fang-shi.md)
   * [011-伪元素清除浮动](010-fu-dong/011wei-yuan-su-qing-chu-fu-dong.md)
   * [012-overflow 清除浮动](010-fu-dong/012-overflow-qing-chu-fu-dong.md)
+  * [013-clear 清除浮动](010-fu-dong/013-clear-qing-chu-fu-dong.md)
 
