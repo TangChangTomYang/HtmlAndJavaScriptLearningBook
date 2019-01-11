@@ -31,4 +31,5 @@
   * [005-浮动元素脱标](010-fu-dong/005fu-dong-yuan-su-tuo-biao.md)
   * [006-浮动元素排序规则](010-fu-dong/006fu-dong-yuan-su-pai-xu-gui-ze.md)
   * [007-浮动元素的贴靠现象](010-fu-dong/007fu-dong-yuan-su-de-tie-kao-xian-xiang.md)
+  * [008-浮动元素字围效果](010-fu-dong/008fu-dong-yuan-su-zi-wei-xiao-guo.md)
 
