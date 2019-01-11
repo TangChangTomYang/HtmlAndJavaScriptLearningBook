@@ -51,4 +51,5 @@
 * [012- 过渡模块\(动画\)](012-guo-du-mo-575728-dong-753b29.md)
   * [001-过度模块的基本使用](012-guo-du-mo-575728-dong-753b29/001guo-du-mo-kuai-de-ji-ben-shi-yong.md)
   * [002-其它过渡模块属性](012-guo-du-mo-575728-dong-753b29/002qi-ta-guo-du-mo-kuai-shu-xing.md)
+  * [003-过渡效果的连写](012-guo-du-mo-575728-dong-753b29/003guo-du-xiao-guo-de-lian-xie.md)
 
