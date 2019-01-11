@@ -17,4 +17,6 @@
   * [004-CSS 3大特性](009-css/004-css-3da-te-xing.md)
   * [005-CSS显示模式](009-css/005-cssxian-shi-mo-shi.md)
   * [006-CSS背景图和精灵图](009-css/006-cssbei-jing-tu-he-jing-ling-tu.md)
+  * [007-CSS边框属性](009-css/007-cssbian-kuang-shu-xing.md)
+  * [008-CSS内边距](009-css/008-cssnei-bian-ju.md)
 
