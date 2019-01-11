@@ -61,4 +61,5 @@
   * [005-盒子阴影和文字阴影](013-css3-2dzhuan-huan-mo-kuai/005he-zi-yin-ying-he-wen-zi-yin-ying.md)
 * [020-javaScript](020-javascript.md)
   * [001-javaScript 的发展历程和基本认识](001-javascript-de-fa-zhan-li-cheng.md)
+  * [002-javaScript 语法](002-javascript-yu-fa.md)
 
