@@ -16,4 +16,5 @@
   * [003-CSS 伪元素选择器](009-css/003-css-wei-yuan-su-xuan-ze-qi.md)
   * [004-CSS 3大特性](009-css/004-css-3da-te-xing.md)
   * [005-CSS显示模式](009-css/005-cssxian-shi-mo-shi.md)
+  * [006-CSS背景图和精灵图](009-css/006-cssbei-jing-tu-he-jing-ling-tu.md)
 
