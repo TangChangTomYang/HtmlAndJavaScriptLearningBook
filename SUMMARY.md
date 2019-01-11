@@ -42,4 +42,5 @@
   * [002-定位流  绝对定位](011-ding-wei/002ding-wei-liu-jue-dui-ding-wei.md)
   * [003-绝对定位参考点](011-ding-wei/003jue-dui-ding-wei-can-kao-dian.md)
   * [004-绝对定位注意点](011-ding-wei/004jue-dui-ding-wei-zhu-yi-dian.md)
+  * [005-绝对定位---子绝父相](011-ding-wei/005jue-dui-ding-4f4d-zi-jue-fu-xiang.md)
 
