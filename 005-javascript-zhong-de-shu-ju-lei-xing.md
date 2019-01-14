@@ -1,4 +1,4 @@
-#### javascript 中的数据类型
+#### 一、javascript 中的数据类型
 
 **1、简单的数据类型(number 数字类型), 包含正数/ 负数/ 小数. 不区分整数和浮点数.**
 
@@ -39,8 +39,15 @@ typeof(num); // undefined 变量未初始化
 
 **5、 null 变量值为空**
 
+```
+var name = "zhangsan";
+name = null; // 主要的作用,把已经定义的变量清空
+```
 
-**2、判断数据类型**
+
+
+<br>
+#### 二、判断数据类型 
 ```
 var age = 10;
 var type = typeof(age);
