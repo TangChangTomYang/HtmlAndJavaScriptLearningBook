@@ -63,4 +63,5 @@
   * [001-javaScript 的发展历程和基本认识](001-javascript-de-fa-zhan-li-cheng.md)
   * [002-javaScript 语法](002-javascript-yu-fa.md)
   * [003-javascript 输出信息的几种方式](003-javascript-shu-chu-xin-xi-de-ji-zhong-fang-shi.md)
+  * [004-javascript 中的变量](004-javascript-zhong-de-bian-liang.md)
 
