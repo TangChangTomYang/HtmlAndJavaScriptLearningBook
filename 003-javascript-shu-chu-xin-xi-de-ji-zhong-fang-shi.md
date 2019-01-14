@@ -16,6 +16,15 @@
 
 ![](/assets/Snip20190114_9.png)
 
-5、**document.write("在页面上输出信息");**, 不仅能输出信息, 还能输出标签
+5、**document.write("在页面上输出信息");**, 
 
 ![](/assets/Snip20190114_10.png)
+
+**document.write(); 标签除了可以输出文字内容, 还可以输出标签**,如下图
+```
+document.write("document.write() 可以输出文字,<br> <strong>也可以输出标签</strong>");
+
+document.write("<div style=\"background-color: red; width: 120px; height: 20px\" ></div>");
+```
+
+![](/assets/docmentwrite.png)
