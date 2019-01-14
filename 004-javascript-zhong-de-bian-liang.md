@@ -5,6 +5,7 @@
 2、javascript 是一门严格区分大小写的语言.
 
  ```
+ javascript 中定义变量
  var age = 12;
  var name = "zhangsan";
  ```
