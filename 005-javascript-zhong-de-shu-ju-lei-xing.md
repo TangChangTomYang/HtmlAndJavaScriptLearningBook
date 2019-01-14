@@ -31,12 +31,13 @@ var n1 = 10;
 var n2 = 20;
 var isBig = n1 > n2;
 ```
-**4、变量未初始化 **
+**4、定义了变量,未给变量初始化, undefined **
 ```
 var num;
 typeof(num); // undefined 变量未初始化
 ```
 
+**5、 null 变量值为空**
 
 
 **2、判断数据类型**
