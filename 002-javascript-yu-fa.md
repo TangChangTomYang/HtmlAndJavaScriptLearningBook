@@ -2,7 +2,7 @@
 
 
 <br>
-#### 一、javascript 的书写位置
+#### 一、javascript 的书写位置 (其实javascript 可以写在html 的任何位置)
 
 
 方式一: 内嵌, 写在head里面 
