@@ -6,3 +6,11 @@ var n1 = 12;
 var n2 = -10;
 var n3 = 15.5;
 ```
+
+
+2、判断数据类型
+```
+var age = 10;
+var type = typeof(age);
+alert(type);
+```
