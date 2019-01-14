@@ -14,3 +14,8 @@ var age = 10;
 var type = typeof(age);
 alert(type);
 ```
+
+3、数据类型的表达方式
+1> 十进制 
+2> 十六进制 0x 开头
+3> 八进制 0开头
