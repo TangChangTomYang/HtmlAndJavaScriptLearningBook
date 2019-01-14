@@ -44,6 +44,14 @@ var name = "zhangsan";
 name = null; // 主要的作用,把已经定义的变量清空
 ```
 
+**null:**
+javascript 中的关键字, 它表示一个特殊值.通常用来描述"控制".
+
+**undefined:**
+表示的是值的空缺. 他是变量的一种取值,表示变量未被初始化.
+在ECMAScript3中, undefined 是可读写的变量,可以给它赋任意值. 在ECMAScript5中将这个错误进行了修改. 只有undefined 这一个值.
+
+
 
 
 <br>
