@@ -65,4 +65,5 @@
   * [003-javascript 输出信息的几种方式](003-javascript-shu-chu-xin-xi-de-ji-zhong-fang-shi.md)
   * [004-javascript 中的变量](004-javascript-zhong-de-bian-liang.md)
   * [005-javascript 中的数据类型](005-javascript-zhong-de-shu-ju-lei-xing.md)
+  * [006-算数运算符](006suan-shu-yun-suan-fu.md)
 
