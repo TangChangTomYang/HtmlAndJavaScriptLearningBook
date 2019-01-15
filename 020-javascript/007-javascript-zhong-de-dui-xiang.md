@@ -128,12 +128,52 @@ var stu = new Person("张三",18,"blue");
 
 方法只不过时附加在对象上的函数
 
-
 1、在构造函数内部定义对象的方法
+```
+funcion person(name, age, eyeColor){
+  this.name = name;
+  this.age = age;
+  this.eyeColor = eyeColor;
+}
+
+this.changeName = changeName;
+function changeName(name){
+ this.name = name;
+}
+```
 
 
 
+<br>
+#### 六、 javaScript 类
 
+javaScript 是面向对象(基于对象)的语言,但javaScript 不使用类.
+在javaScript 中不会创建类, 也不会通过类来创建对象.
+
+javaScript 是基于prototype, 而不是基于类的.
+
+
+<br>
+#### 七、 javaScript 中的for...in 
+
+javaScript 中的for...in 语句循环遍历对象的属性
+
+```
+func Person(name , age , eyeColor){
+ this.name = name;
+ this.age = age;
+ this.eyeColor = eyeColor;
+}
+
+var pson = new Person("zhangsan", 18, "blue");
+
+for(propertyName in pson){
+ 
+ //取出对象中 对应属性的值
+ alert(pson[propertyName]);
+}
+
+```
 
 
 
