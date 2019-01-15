@@ -61,6 +61,11 @@ var rst = num * str; // 结果是 246900
 ```
 
 3、一个数字 除以 0, 得到的输一个数字类型, 但数值是一个 Infinity (无限大)
+```
+var n1 = 10;
+var n2 = 0;
+var rst = n1 / n2 ; // 结果为 Infinity
+```
 ![](/assets/Snip20190115_1.png)
 
 
