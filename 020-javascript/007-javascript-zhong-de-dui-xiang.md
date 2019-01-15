@@ -17,7 +17,8 @@ javaScript 提供多个内健对象, 比如: String/ Date/ Array 等等. **对�
 属性是与对象相关的值
 ```
 访问对象的属性语法:
-objName.propertyName;
+objName.propertyName; // 方式一
+objName["propertyName"]; // 方式二, 也可以访问对象的属性
 
 
 var msg = "Hello javaScript";
