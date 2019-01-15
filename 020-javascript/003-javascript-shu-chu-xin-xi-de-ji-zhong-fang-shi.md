@@ -40,5 +40,4 @@ document.write("document.write() 可以输出文字,<br> <strong>也可以输出
 
 document.write("<div style=\"background-color: red; width: 120px; height: 20px\" ></div>");
 ```
-
-![](/assets/docmentwrite.png)
+ ![](/assets/Snip20190115_3.png)
