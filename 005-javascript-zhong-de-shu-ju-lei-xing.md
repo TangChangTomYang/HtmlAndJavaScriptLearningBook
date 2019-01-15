@@ -21,7 +21,7 @@ var name = 'zhangsan';
 var name1 = "lisi";
 ```
 
-**3、布尔数据类型 **
+**3、布尔数据类型(true 和 false ) ,实际应用中, true = 1, false = 0**
 
 ```
 var isMan = false;
