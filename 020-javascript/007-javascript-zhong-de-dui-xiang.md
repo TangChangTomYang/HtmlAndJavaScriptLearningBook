@@ -84,11 +84,47 @@ step2> 使用构造对象的函数,构造对象
 var stu = new Person("张三",18,"blue");
 ```
 
-2、 使用函数来定义对象, 然后创建新的对象实例.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <br>
+ #### 四、给已经实例化的对象添加属性
+ 
+ 你可以通过为对象赋值, 向已有对象添加新的属性;
+ 
+ 比如: person 这个对象,已经有 name/ age/ eydColor 这3个属性了, 那么你可以 已向person 赋值的形式给它添加新的属性, 比如: sex
+ 
+ ```
+ var person = {name:"zhangsan", age:15, eycColor:"blue"}; //现在3个属性
+ 
+ person.sex = "girl"; // 新增 sex 属性
+ 
+ 
+ 此后: person 这个对象就由 name/ age/ eyeColor/ sex 这4个属性了
+ ```
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+<br>
+#### 五、把方法添加到 javaScript 对象上
+
+方法只不过时附加在对象上的函数
 
 
 
