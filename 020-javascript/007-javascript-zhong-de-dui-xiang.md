@@ -1,5 +1,7 @@
 #### javaScript 对象
 
+[javascript 对象](http://www.w3school.com.cn/js/js_objects.asp)
+
 javaScript 中所有的事物都是对象: **字符串/ 数值/ 数组/ 函数...** ,此外,javaScript 允许自定义对象.
 
 
