@@ -66,4 +66,5 @@
   * [004-javascript 中的变量](020-javascript/004-javascript-zhong-de-bian-liang.md)
   * [005-javascript 中的数据类型](020-javascript/005-javascript-zhong-de-shu-ju-lei-xing.md)
   * [006-算数运算符](020-javascript/006suan-shu-yun-suan-fu.md)
+  * [007-date对象 和 Math 方法](020-javascript/007-datedui-xiang-he-math-fang-fa.md)
 
