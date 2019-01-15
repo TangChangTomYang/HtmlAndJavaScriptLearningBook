@@ -158,9 +158,13 @@ javaScript 是基于prototype, 而不是基于类的.
 
 
 <br>
-#### 七、 javaScript 中的for...in 
+#### 七、 javaScript 中的for...in 可以用来遍历对象的属性, 也可以用来遍历数组的index
 
-javaScript 中的for...in 语句循环遍历对象的属性
+
+
+**javaScript 中的for...in 语句循环遍历对象的属性**
+
+
 
 ```
 func Person(name , age , eyeColor){
@@ -171,12 +175,26 @@ func Person(name , age , eyeColor){
 
 var pson = new Person("zhangsan", 18, "blue");
 
-for(propertyName in pson){
+for(propertyName in pson){ // 会将属性名,一个一个的遍历出来
  
  //取出对象中 对应属性的值
- alert(pson[propertyName]);
+ alert(pson[propertyName]); 
 }
 
+```
+
+
+**javaScript 中的for...in 语句循环遍历数组的 序号**
+
+
+
+
+```
+var cars = new Array("audi", "bmw", "volvo");
+
+    for (index in cars ){  // 遍历序号
+        console.log(cars[index]);
+    }
 ```
 
 
