@@ -68,5 +68,4 @@
   * [006-算数运算符](020-javascript/006suan-shu-yun-suan-fu.md)
   * [007-javascript 中的对象](020-javascript/007-javascript-zhong-de-dui-xiang.md)
   * [008-javaScript 中的函数](020-javascript/008-javascript-zhong-de-han-shu.md)
-* [030-javaScript 入门](030-javascript-ru-men.md)
 
