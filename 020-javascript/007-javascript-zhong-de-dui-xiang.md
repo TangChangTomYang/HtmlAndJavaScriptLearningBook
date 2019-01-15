@@ -2,11 +2,14 @@
 
 [javascript 对象](http://www.w3school.com.cn/js/js_objects.asp)
 
-javaScript 中所有的事物都是对象: **字符串/ 数值/ 数组/ 函数...** ,此外,javaScript 允许自定义对象.
+javaScript 中所有的事物都是对象: **字符串/ 数值/ 数组/ 日期/ 函数...** ,此外,javaScript 允许自定义对象.
+
+
 
 
 <br>
-javaScript 提供多个内健对象, 比如: String/ Date/ Array 等等. **对象只是带有属性和方法的特殊数据类型.**
+在javaScript 中, 对象是数据(变量) 拥有属性和方法
+,javaScript 提供多个内健对象, 比如: String/ Date/ Array 等等. **对象只是带有属性和方法的特殊数据类型.**
 
 
 
