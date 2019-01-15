@@ -55,7 +55,7 @@ msg.toUpperCase(); // 将小写转换为大写
 
 **创建对象有2种不同的方法:**
 
- ** ⭐️ ⭐️ ⭐️ 1、 定义并创建对象的实例**
+ ** ⭐️ ⭐️ ⭐️ 方式一:  定义并创建对象的实例**
 ```
 这个例子创建了对象的一个新实例, 并向其中添加了4个属性
 var person = new Object();
@@ -66,6 +66,22 @@ person.eyeColor = "blue";
 
 语法糖 
 var stu = {name:"zhangsan",age:25,sex:"man"}; // 属性名: 属性值
+```
+
+** ⭐️ ⭐️ ⭐️ 方式二: 使用对象构造器创建对象(分2步: 构造和实例化)**
+
+```
+
+step1> 创建构造对象的函数
+function Person(firstName, age, eyeColor){
+  this.firstName = firstName;
+  this.age = age;
+  this.eyeColor = eyeColor;
+}
+ 
+step2> 使用构造对象的函数,构造对象
+ 
+var stu = new Person("张三",18,"blue");
 ```
 
 2、 使用函数来定义对象, 然后创建新的对象实例.
