@@ -74,4 +74,5 @@
   * [001- DOM 简介](030-javascript-dom/001-dom-jian-jie.md)
   * [002-DOM  改变HTML](030-javascript-dom/002-dom-gai-bian-html.md)
   * [003-DOM 改变CSS样式](030-javascript-dom/003-dom-gai-bian-css-yang-shi.md)
+  * [004-DOM 事件](030-javascript-dom/004-dom-shi-jian.md)
 
