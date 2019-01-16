@@ -4,9 +4,10 @@
 
 <br>
 **方式1:**
-直接在标签内
-
-
+直接在标签内修改属性/ 样式/ 内容
+```
+<p onclick="this.style.color='purple'; this.style.lineHeight='50px'">点击修改文字</p>
+```
 
 
 1> 定义 javaScript 函数
