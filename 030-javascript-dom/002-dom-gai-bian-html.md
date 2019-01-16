@@ -2,6 +2,12 @@
 
 HTML DOM 允许javaScript 改变 HTML元素内容.
 
+
+
+
+
+
+
 <br>
 #### 一、改变 HTML 输出流
 
@@ -41,7 +47,7 @@ document.getElementById("demo").innerHTML = new HTML ;
 
 
 <br>
-#### 三、改变HTML 属性
+#### 三、改变HTML 属性 (注意: 属性和CSS样式不同)
 
 如需修改 HTML标签的属性, 请使用 **document.getElementById(id).attribute = new value ;**
 
