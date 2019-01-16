@@ -20,3 +20,73 @@
 - 可能是由于来自服务器或用户的错误输出导致的错误 ❌
 - 当然, 也可能是由于许多其他不可预测的因素. ❌
 
+
+
+
+
+
+
+<br>
+#### 三、javaScript 抛出错误 ❌
+
+当错误发生是, 当事情出问题时, javaScript 引擎通常会停止,并生成一个错误消息.
+
+描述这种情况的技术术语是: javaScript 将抛出一个错误.
+
+
+
+
+
+
+
+
+
+<br>
+#### 四、javaScript 测试和捕捉
+
+**1、 try 语句允许我们定义 (执行时) 进行错误测试的代码块** , 简单的说就是, **使用try 语句定义 错误测试代码块**
+
+**2、 catch 语句允许我们当 try 语句代码块发生错误时, 所执行的代码块**
+
+**3、javaScript 中 try 语句和 catch 语句是成对出现的**
+
+
+
+<br>
+**4、try{...} catch(err){...} 示例,如下:** 
+
+```
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>javascript </title>
+    <script >
+            function myFunc(){
+
+                try { /*测试要执行的代码, 防止错处*/
+
+                    lert(" try 错误");   /*我们这里故意将 'alert' 写错为 'lert' 报错*/
+                }
+                catch (err){ /*当上面的try 检测到错误就会来到catch, 并说明错误原因*/
+
+                    var msg = "这里检测到错误:\n";
+                    msg += err.message ;    /*通过 err 的 message 属性,获取具体的错误信息*/
+                    msg += "\n";
+                    alert(msg);
+                }
+            }
+
+    </script>
+
+</head>
+
+<body>
+
+<button type="button" onclick="myFunc()"> 点击 按钮 测试 try catch 错误</button>
+</body>
+</html>
+```
+
