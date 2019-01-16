@@ -13,4 +13,10 @@
 
 ![** HTML DOM 模型被构造为对象树**](/assets/Snip20190116_11.png)
 
+通过可编程的对象模型, javaScript 获得了足够的能力来创建 动态的HTML
+
+- HTML 能够改变页面中所有的 HTML 元素
+- HTML 能够改变页面中所有的 HTML 属性
+- HTML 能够改变页面中所有的 CSS 样式
+- javaScript 能够对页面中的所有事件作出反应.
 
