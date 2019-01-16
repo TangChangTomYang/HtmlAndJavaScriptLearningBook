@@ -61,3 +61,51 @@ HTML 事件的例子
 </html>
 ```
 ![](/assets/Snip20190116_14.png)
+
+
+
+
+
+
+<br>
+**标签绑定点击事件,方式1:**
+```
+<h2 onclick="this.innerHTML='wo shi er ji biao ti'"> 我是二级标题</h2>
+```
+
+
+
+
+
+
+
+<br>
+**标签绑定点击事件,方式2:**
+
+```
+// 先定义一个javaScript 函数
+<script>
+    function changeColor(element){
+        element.style.color = "red";
+    }
+</script>
+
+
+<h1 onclick="changeColor(this)"> 我是大标题 </h1>
+```
+
+
+
+
+
+
+<br>
+**标签绑定点击事件,方式3:** 通过javaScript 动态绑定点击事件
+```
+function bindAction() {
+  document.getElementById("hh").onclick = function () {
+      this.style.backgroundColor = "purple";
+  }
+ }
+```
+
