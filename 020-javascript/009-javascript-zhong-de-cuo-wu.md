@@ -1,7 +1,8 @@
 #### javaScript 中的错误
 
 
-**javaScript 错误, Throw/ Try/ Cathch**
+<br>
+#### 一、javaScript 错误, Throw/ Try/ Cathch
 
 
 - try 语句测试代码块错误 ❌.
@@ -11,7 +12,7 @@
 
 
 <br>
-**错误一定会发生**
+#### 二、错误一定会发生
 当javaScript 引擎执行 javaScript 代码时, 会发生各种错误.
 
 - 可能是语法错误 ❌ ,通常是程序员造成的编码错误或者错别字.
