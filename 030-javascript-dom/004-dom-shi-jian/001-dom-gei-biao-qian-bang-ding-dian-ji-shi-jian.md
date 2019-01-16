@@ -32,15 +32,34 @@
 ##### 方式3:
 通过 javaScript 为某个标签动态绑定(分配) 点击事件
 ```
+方式1:
 function bindBoxAction(){
 
     var box = document.getElementById("box");
     box.onclick = function () {
         this.style.backgroundColor = "red";
-    }
+    };
 }
 
 
 <p onclick="bindBoxAction()"> 点击通过 javaScript 给 box 绑定事件</p>
 <p id="box"> 我是box, 点击修改颜色 </p>
+
+// 方式:
+<script>
+
+    function test() {
+        var box = document.getElementById("box");
+        box.style.backgroundColor = "red";
+    }
+
+    function bindBoxAction(){
+
+        var box = document.getElementById("box");
+        box.onclick = test;
+    }
+</script>
+    
+<p onclick="bindBoxAction()"> 点击通过 javaScript 给 box 绑定事件</p>
+<p id="box"> 我 是 box </p>
 ```
