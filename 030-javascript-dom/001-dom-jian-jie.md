@@ -33,7 +33,25 @@
  - **通过标签名找到 HTML标签**
  
 
+<br>
+##### (一)、通过Id 查找HTML 标签
 
+在 DOM 中查找HTML 元素最简单的方式,就是通过元素 的Id来查找.
+
+```
+// 查找 id = "demo" 的元素/ 标签
+var element = document.getElementById("demo");
+
+// 如果能找到对应的标签, 则element 就位对应的标签(对象), 否则 element = null;
+```
+
+
+<br>
+#### (二)、通过类名查找HTML 标签
+
+
+<br>
+#### (三)、通过标签名查找对应的 标签
 
 
 
