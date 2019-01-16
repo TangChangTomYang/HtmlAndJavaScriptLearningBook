@@ -75,4 +75,5 @@
   * [002-DOM  改变HTML](030-javascript-dom/002-dom-gai-bian-html.md)
   * [003-DOM 改变CSS样式](030-javascript-dom/003-dom-gai-bian-css-yang-shi.md)
   * [004-DOM 事件](030-javascript-dom/004-dom-shi-jian.md)
+    * [001- DOM  给标签绑定 点击事件](030-javascript-dom/004-dom-shi-jian/001-dom-gei-biao-qian-bang-ding-dian-ji-shi-jian.md)
 
