@@ -10,6 +10,20 @@
 示例:
 
 ```
+<script>
+    function checkCookies() {
+        if (navigator.cookieEnabled == true){
+            alert("已启用 Cookie");
+        }
+        else {
+            alert("未  启用 cookie");
+        }
+    }
+</script>
+    
+...
+
+
 <body onload="checkCookie()">
 
 </body>
