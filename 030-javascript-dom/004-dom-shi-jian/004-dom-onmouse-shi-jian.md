@@ -18,3 +18,8 @@ onmouseover 和 onmouseout 事件可用于在用户的鼠标移至 HTML 元素�
 <div class="box" onmouseover="changeColor(true)" onmouseout="changeColor(false)" ></div>
 <div id="box2"></div>
 ```
+
+
+
+<br>
+#### 二、onmousedown 和 onmouseup 事件
