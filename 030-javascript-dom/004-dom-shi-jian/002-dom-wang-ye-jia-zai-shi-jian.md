@@ -23,9 +23,7 @@
     
 ...
 
-
 <body onload="checkCookie()">
-
 </body>
 ```
 
