@@ -79,4 +79,5 @@
     * [002- DOM 网页加载 事件](030-javascript-dom/004-dom-shi-jian/002-dom-wang-ye-jia-zai-shi-jian.md)
     * [003- DOM onchange 事件](030-javascript-dom/004-dom-shi-jian/003-dom-onchange-shi-jian.md)
     * [004- DOM  onmouse 事件](030-javascript-dom/004-dom-shi-jian/004-dom-onmouse-shi-jian.md)
+    * [004- 鼠标事件](030-javascript-dom/004-dom-shi-jian/004-shu-biao-shi-jian.md)
 
