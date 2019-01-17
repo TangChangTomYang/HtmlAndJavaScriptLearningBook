@@ -8,7 +8,7 @@
 ```
 <p onclick="this.style.color='purple'; this.style.lineHeight='50px'">点击修改文字</p>
 ```
-
+![](/assets/Snip20190117_10.png)
 
 <br>
 ##### 方式2:
@@ -24,6 +24,8 @@
 
 <p onclick="changeColor(this)"> 点击修改颜色</p>
 ```
+![](/assets/Snip20190117_10.png)
+
 
 
 
@@ -63,3 +65,4 @@ function bindBoxAction(){
 <p onclick="bindBoxAction()"> 点击通过 javaScript 给 box 绑定事件</p>
 <p id="box"> 我 是 box </p>
 ```
+![](/assets/Snip20190117_13.png)
