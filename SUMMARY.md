@@ -78,6 +78,5 @@
     * [001- DOM  给标签绑定 点击事件](030-javascript-dom/004-dom-shi-jian/001-dom-gei-biao-qian-bang-ding-dian-ji-shi-jian.md)
     * [002- DOM 网页加载 事件](030-javascript-dom/004-dom-shi-jian/002-dom-wang-ye-jia-zai-shi-jian.md)
     * [003- DOM onchange 事件](030-javascript-dom/004-dom-shi-jian/003-dom-onchange-shi-jian.md)
-    * [004-DOM 鼠标hover 事件](030-javascript-dom/004-dom-shi-jian/004-dom-shu-biao-hover-shi-jian.md)
     * [004- DOM  onmouse 事件](030-javascript-dom/004-dom-shi-jian/004-dom-onmouse-shi-jian.md)
 
