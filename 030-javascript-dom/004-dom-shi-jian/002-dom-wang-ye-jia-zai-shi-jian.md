@@ -7,5 +7,11 @@
 2、onload 事件可用于检测访问者的浏览器类型和浏览器版本, 并基于这些信息来加载页面的正确版本.
 3、onload 和 onunload 事件可用于处理 cookie.
 
+示例:
 
+```
+<body onload="checkCookie()">
+
+</body>
+```
 
