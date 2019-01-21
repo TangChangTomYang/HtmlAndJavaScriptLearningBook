@@ -65,4 +65,7 @@ javaScript HTML DOM 元素(节点)
 <br>
 ##### 二、删除已有的 HTML 元素 
 
+如需删除 HTML 元素, 你必须首先获得该元素的父元素
+
+
 
