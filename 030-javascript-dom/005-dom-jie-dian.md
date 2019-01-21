@@ -67,5 +67,43 @@ javaScript HTML DOM 元素(节点)
 
 如需删除 HTML 元素, 你必须首先获得该元素的父元素
 
+<br>
+删除子节点
+
+```
+<script>
+
+    function deleteP() { 
+        //找出父节点
+        var divEle = document.getElementById("box"); 
+        //找出子节点
+        var pEle = document.getElementById("para1");
+        //删除子节点
+        divEle.removeChild(pEle);   
+    }
+
+</script>
+
+ <div id="box">
+        <p id="para1">我是段落1</p>
+        <p id="para2">我是段落2</p>
+        <p id="para3">我是段落3</p>
+        <p id="para4">我是段落4</p>
+    </div>
+
+<button type="button" onclick="deleteP()" >点击删除标签 </button>
+```
 
 
+
+
+<br>
+删除自己
+```
+<script>
+    function deleteSelf(){
+        var self = document.getElementById("box");
+        self.remove();
+    }
+</script>
+```
