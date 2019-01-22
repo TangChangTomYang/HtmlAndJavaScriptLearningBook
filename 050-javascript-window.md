@@ -2,5 +2,36 @@
 
 
 
+<br>
+**javaScript Window ---- 浏览器对象模型**
 
-javaScript Window 浏览器对象模型
+
+**浏览器对象模型(BOM Browser Object Model), 使得javaScript 有能力与浏览器对话**
+
+
+<br>
+#### 一、浏览器对象模型(BOM Browser Object Model)
+
+由于现代浏览器已近(几乎) 实现了javaScript 交互性方面的相同的方法和属性, 因此常被称为是 **BOM的方法和属性**
+
+
+
+
+<br>
+#### 二、 Window 对象
+
+**1、 所有的浏览器都支持Window对象, 它代表的是浏览器窗口**
+**2、所有的javaScript 全局对象/ 函数/ 以及变量均自动成为 Window 对象的成员**
+
+
+
+
+
+
+
+
+
+
+
+
+
