@@ -23,7 +23,16 @@
 **1、 所有的浏览器都支持Window对象, 它代表的是浏览器窗口**
 **2、所有的javaScript 全局对象/ 函数/ 以及变量均自动成为 Window 对象的成员**
 
+1> 全局变量是 Window 对象的属性
+2> 全局函数是 Window对象的方法
+3> 甚至HTML DOM的 document 也是Window 对象的属性之一
 
+比如:
+```
+window.document.getElementById("box");
+等价于
+document.getElementById("box");
+```
 
 
 
