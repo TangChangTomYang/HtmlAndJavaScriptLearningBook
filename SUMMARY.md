@@ -82,4 +82,5 @@
   * [005-DOM 节点](030-javascript-dom/005-dom-jie-dian.md)
 * [040-javaScript 正则表达式](040-javascript-zheng-ze-biao-da-shi.md)
 * [050-javaScript Window](050-javascript-window.md)
+* [050-BOM 浏览器对象](050-bom-liu-lan-qi-dui-xiang.md)
 
