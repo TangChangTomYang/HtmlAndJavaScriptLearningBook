@@ -1,1 +1,1 @@
-#### 050-BOM 浏览器对象
+#### javaScript window 浏览器对象
