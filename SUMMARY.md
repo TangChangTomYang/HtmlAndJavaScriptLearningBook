@@ -83,5 +83,5 @@
 * [040-javaScript 正则表达式](040-javascript-zheng-ze-biao-da-shi.md)
 * [050-javaScript Window](050-javascript-window.md)
 * [050-BOM 浏览器对象](050-bom-liu-lan-qi-dui-xiang.md)
-  * 001-javaScript Window 对象
+  * [001-javaScript Window 对象](050-bom-liu-lan-qi-dui-xiang/001-javascript-window-dui-xiang.md)
 
