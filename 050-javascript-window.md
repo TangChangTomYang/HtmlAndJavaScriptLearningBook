@@ -20,7 +20,7 @@
 <br>
 #### 二、 Window 对象
 
-**1、 所有的浏览器都支持Window对象, 它代表的是浏览器窗口**
+**1、所有的浏览器都支持Window对象, 它代表的是浏览器窗口**
 **2、所有的javaScript 全局对象/ 函数/ 以及变量均自动成为 Window 对象的成员**
 
 1> 全局变量是 Window 对象的属性
@@ -47,7 +47,8 @@ document.getElementById("box");
 
 1> 对于 Internet Explorer/ Chrome/ firefox/ Opera及Safari 直接使用 **window.innerHeight 和 window.innerWidht** 即可获取窗口的高度和宽度.
 
-2> 对于 Internet Explorer 8/7/6/5 使用 ** document.documentElement.clientHeight 和 document.documentElement.clientWidth ** 获取高度和宽度, Internet Explorer 也可以使用 **document.body.clientHeight 和 document.body.width** 来获取高度宽度
+2> 对于 Internet Explorer 8/7/6/5 使用 ** document.documentElement.clientHeight 和 document.documentElement.clientWidth ** 获取高度和宽度.
+3> Internet Explorer 也可以使用 **document.body.clientHeight 和 document.body.width** 来获取高度宽度
 
 
 
