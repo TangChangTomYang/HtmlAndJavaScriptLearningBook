@@ -36,8 +36,7 @@ document.getElementById("box");
 
 
 
-
-<br>
+ 
 <br>
 #### 三、 Window (对象) 尺寸
 
@@ -76,6 +75,17 @@ document.getElementById("box");
 
 // 注意, 该示例显示的浏览器窗口高度和宽度, 不包括工具栏和滚动条
 ```
+
+
+
+<br>
+#### 四、 Window (对象) 的其它方法
+
+- window.open() 打开新窗口
+- window.close() 关闭当前窗口
+- window.movet0() 移动当前窗口
+- window.resizeTo() 调整当前窗口的尺寸
+
 
 
 
