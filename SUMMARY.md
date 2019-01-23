@@ -84,4 +84,5 @@
 * [050-BOM 浏览器对象](050-bom-liu-lan-qi-dui-xiang.md)
   * [001-javaScript Window 对象](050-bom-liu-lan-qi-dui-xiang/001-javascript-window-dui-xiang.md)
   * [002-javaScript Window Screen](050-bom-liu-lan-qi-dui-xiang/002-javascript-window-screen.md)
+  * [003-javaScript Window Location](050-bom-liu-lan-qi-dui-xiang/003-javascript-window-location.md)
 
