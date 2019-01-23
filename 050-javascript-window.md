@@ -74,7 +74,7 @@ document.getElementById("box");
 </script>
 
 
-// 注意
+// 注意, 该示例显示的浏览器窗口高度和宽度, 不包括工具栏和滚动条
 ```
 
 
