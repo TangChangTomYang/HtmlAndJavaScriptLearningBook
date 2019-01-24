@@ -88,4 +88,5 @@
   * [004-javaScript window History](050-bom-liu-lan-qi-dui-xiang/004-javascript-window-history.md)
   * [005-javaScript Window Navigator](050-bom-liu-lan-qi-dui-xiang/005-javascript-window-navigator.md)
   * [006-javaScript  计时](050-bom-liu-lan-qi-dui-xiang/006-javascript-ji-shi.md)
+  * [007-javaScript Cookie](050-bom-liu-lan-qi-dui-xiang/007-javascript-cookie.md)
 
