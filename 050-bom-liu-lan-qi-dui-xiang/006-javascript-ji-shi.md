@@ -19,7 +19,7 @@
 
 
 <br>
-示例:
+**一次性定时器示例:**
 ```
 <script>
 
@@ -42,4 +42,34 @@
 <button type="button" onclick="displayWebUrl()"> 5s 后 显示 web 的 url</button>
 
 <button type="button" onclick="clearTimer()"> 点击清除定时</button>
+```
+
+
+<br>
+**无限 循环 定时器示例**
+
+要创建一个运行于无穷循环中的定时器, 我们只需要编写一个函数来调用其自身
+
+```
+<script>
+        var count = 0;
+        var timer = null;
+
+        function timerCount() {
+            count += 1;
+            timer = setTimeout("timerCount()", 1000);
+            console.log(count);
+        }
+
+        function stopTimerCount() {
+            clearTimeout(timer);
+        }
+
+</script>
+    
+    
+<button type="button" onclick="timerCount()"> 点击循环计数</button><br>
+<button type="button" onclick="stopTimerCount()"> 点击 停止循环计数</button>
+
+
 ```
