@@ -2,9 +2,11 @@
 
 #### javaScript Window Navigator
 
-1、window.navigator 对象包含有关访问者浏览器的信息
 
-2、windor.navigator 对象在编写时可不使用 window 这个前缀
+<br>
+**1、window.navigator 对象包含有关访问者浏览器的信息**
+
+**2、windor.navigator 对象在编写时可不使用 window 这个前缀**
 
 ```
  <script>
