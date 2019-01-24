@@ -24,3 +24,6 @@
  <br>
  #### 二、window location href
 ** 2、location.href 属性返回当前页面的 URL **
+```
+location.href // 返回当前页面的 url
+```
