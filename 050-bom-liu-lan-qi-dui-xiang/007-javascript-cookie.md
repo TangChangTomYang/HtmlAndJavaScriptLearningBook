@@ -38,9 +38,43 @@ Cookie 是用来识别用户的
 
 
 <br>
-#### 二、创建和存储cookie
+#### 二、设置、获取、清除 cookie 封装成一个 cookie.js
+
+**1、设置cookie **
+```
+function setCookie(name,value,hours){  // 名字 值 过期时长
+    var d = new Date();
+    d.setTime(d.getTime() + hours * 3600 * 1000);
+    document.cookie = name + '=' + value + '; expires=' + d.toGMTString();
+}
+```
 
 
+<br>
+**2、获取cookie**
+```
+function getCookie(name){  
+    var arr = document.cookie.split('; ');
+    for(var i = 0; i < arr.length; i++){
+        var temp = arr[i].split('=');
+        if(temp[0] == name){
+            return temp[1];
+        }
+    }
+    return '';
+}
+```
+<br>
+
+**3、删除cookie**
+清除 cookie 其实很简单，只要使过期时间为过去时间就可以了。
+```
+function removeCookie(name){
+    var d = new Date();
+    d.setTime(d.getTime() - 10000);
+    document.cookie = name + '=1; expires=' + d.toGMTString();
+}
+```
 
 
 
