@@ -7,15 +7,18 @@
 
 
 <br>
-**1通过javaScript , 我们可以做到在一个设定的时间间隔之后来执行代码, 而不是在函数被调用后立即执行, 我们称之为计时器事件**
+**1、通过javaScript , 我们可以做到在一个设定的时间间隔之后来执行代码, 而不是在函数被调用后立即执行, 我们称之为计时器事件**
 
-在javaScript 中使用计时事件, 有2个关键的方法:
+**2、在javaScript 中使用计时事件, 有2个关键的方法:**
 
 - setTimeOut("doSomeThing()", timeInterval); //  timeInterval 毫秒后 做 doSomeThing() 这件事情
 
 - clearTimeOut() // 取消 setTimeOut()
 
 
+
+
+<br>
 示例:
 ```
 <script>
