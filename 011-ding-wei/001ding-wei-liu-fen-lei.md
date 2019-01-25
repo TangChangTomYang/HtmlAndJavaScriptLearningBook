@@ -98,6 +98,17 @@
 
 
 
+<br>
+**注意:**
+
+**行内元素/ 行内块级元素 不能直接设置定位流为 position:relative, 必须先设置 display:block 后才可以设置,position为 relative.**
+
+
+
+
+
+
+
 
 
 
