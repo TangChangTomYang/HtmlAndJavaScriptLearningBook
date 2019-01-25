@@ -31,3 +31,39 @@
     }
 ```
 ![](/assets/rg.png)
+
+
+
+
+
+<br>
+**注意:**
+如果一个标签 使用了绝对定位,先设置了left位置再设置right位置, 或者先设置了top位置再设置bottom位置, 那么后面设置的 right位置 和 bottom位置将不会生效, 这是因为 left/ top 的优先级比 right/ bottom 的优先级高.
+
+示例:
+
+```
+
+
+div{
+    position: relative;
+}
+
+a{
+    position: absolute;
+    left: 0px;
+    top:0px;
+}
+
+div a{
+    right: 0px; /*此处无效, 已经先设置了 left, left 权限高于right*/
+    bottom:0px; /*此处无效, 已经先设置了 top, top 权限高于bottom*/
+}
+        
+        
+
+<div class="box">
+    <a href="@">a 标签 </a>
+</div>
+
+```
