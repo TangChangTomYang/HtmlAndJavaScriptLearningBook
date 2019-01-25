@@ -1,4 +1,4 @@
-#### z-index 属性
+#### 一、z-index 属性
 
 1、什么是z-index 属性
 
@@ -16,3 +16,42 @@ z-index 属性的作用是专门用于控制定位流元素的覆盖关系的.
   
 **注意:**
 在固定定位中是不能使用 z-index, 失效
+
+
+
+
+
+<br>
+
+#### 二、float / position z-index 层级关系
+
+**1、在标准流中,默认所有的 标签/元素 z-index 值为 0, 且后面的标签 覆盖 前面的标签的子标签(如果上一个标签的子标签有超出父标签, 且子标签 为标准流 (非 float/ 非定位流(position:relative/  position:absolute)))**
+```
+.box1{
+    width: 150px;
+    height: 50px;
+    background-color: pink;  
+}
+.box1-son{
+    width: 50px;
+    height: 75px;
+    background-color: blue;
+} 
+.box2{
+    width: 250px;
+    height: 125px;
+    background-color: cyan;
+}
+
+
+<div class="box1">
+     <div class="box1-son"></div>
+</div>
+<div class="box2"></div>
+```
+
+![](/assets/Snip20190125_1.png)
+
+
+
+**2、 在标准流中, 如果上一个标签/元素 的子元素是float 或者 定位流(position:relative; position:absolute;), 那么如果子标签超出父标签, 那么父标签后面的标签会被子标签覆盖**
